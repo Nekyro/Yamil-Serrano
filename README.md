@@ -8,4 +8,11 @@ I'm a **Computer Science and Software Engineering student** at the University of
 - Electronics Projects
 
 🔗 **Explore my work:**
-Check out my [GitHub repositories](https://github.com/Yamil-Serrano)
+Check out my [GitHub repositories](https://github.com/Yamil-Serrano
+
+## Credits
+- PFP: Artwork by a talented artist. Used with appreciation.
+
+
+
+
