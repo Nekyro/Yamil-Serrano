@@ -6,6 +6,8 @@ I'm a **Computer Science and Software Engineering student** at the University of
 - Backend Development
 - Robotics and Hardware Integration
 - Electronics Projects
+- 3D Printing
+- Simple modeling in fusion 360
 
 🔗 **Explore my work:**
 Check out my [GitHub repositories](https://github.com/Yamil-Serrano)
