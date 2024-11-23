@@ -15,10 +15,3 @@ Dive in to explore my skills, projects, and all the cool things I’m working on
 
 🔗 **Explore my work:**
 Check out my [GitHub repositories](https://github.com/Yamil-Serrano)
-
-## 🎨 Credits
-- PFP: Artwork by a talented artist. Used with appreciation.
-
-
-
-
